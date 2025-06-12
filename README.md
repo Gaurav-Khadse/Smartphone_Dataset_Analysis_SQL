@@ -23,10 +23,7 @@ This project helped me enhance my SQL querying skills and develop a strong under
 
 ⭐ If you find this repository useful, don’t forget to star it and follow for more data analysis content!
 
-🛠️ Tools Used:
-MySQL Workbench
-
-Power BI / Tableau (for visualization)
+🛠️ Tools Used:MySQL Workbench
 
 📂 Dataset: Smartphone Specifications Dataset
 
