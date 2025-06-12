@@ -35,30 +35,31 @@ Power BI / Tableau (for visualization)
 In this project, I worked with a smartphone specifications dataset using MySQL Workbench. The dataset includes several key attributes that reflect real-world smartphone models and their technical features across various brands available in the Indian market.
 
 - brand_name: Brand of the smartphone (e.g., Samsung, Apple, Xiaomi, etc.)
-
-- model: Specific model name
-
-- launch_date: Date of market launch
-
-- processor: Chipset used (e.g., Snapdragon, MediaTek)
-
-- ram_gb: RAM in GB
-
-- internal_storage: Storage capacity
-
-- battery_mah: Battery size in mAh
-
-- primary_camera_mp: Camera specs (e.g., 64MP + 8MP + 2MP)
-
-- os: Operating system (Android/iOS)
-
-- display_size_inches: Screen size in inches
-
-- refresh_rate: Screen refresh rate (e.g., 60Hz, 120Hz)
-
-- price_inr: Price in Indian Rupees
-
-- has_5g: Indicates if the phone supports 5G (Yes/No)
+- model: Specific model name of the smartphone
+- price: Price of the smartphone
+- rating: User or expert rating of the smartphone
+- has_5g: Indicates if the phone supports 5G (Boolean: True/False)
+- has_nfc: Indicates if the phone has Near Field Communication (NFC) capabilities (Boolean: True/False)
+- has_ir_blaster: Indicates if the phone has an IR blaster (Boolean: True/False)
+- processor_brand: Brand of the processor (e.g., Qualcomm Snapdragon, MediaTek, Apple, Exynos, etc.)
+- num_cores: Number of cores in the processor
+- processor_speed: Clock speed of the processor in GHz
+- battery_capacity: Battery size in mAh
+- fast_charging_available: Indicates if fast charging is available (Boolean: True/False)
+- fast_charging: Fast charging wattage in Watts (e.g., 18W, 33W, 67W, etc.)
+- ram_capacity: RAM in GB
+- internal_memory: Internal storage capacity in GB
+- screen_size: Screen size in inches
+- refresh_rate: Screen refresh rate in Hz (e.g., 60Hz, 90Hz, 120Hz)
+- num_rear_cameras: Number of rear cameras
+- num_front_cameras: Number of front cameras
+- os: Operating system (e.g., Android, iOS)
+- primary_camera_rear: Primary rear camera specifications (e.g., 64MP + 8MP + 2MP)
+- primary_camera_front: Primary front camera specifications (e.g., 16MP)
+- extended_memory_available: Indicates if extended memory is available (Boolean: True/False)
+- extended_upto: Maximum extended memory capacity (e.g., 1TB)
+- resolution_width: Screen resolution width in pixels
+- resolution_height: Screen resolution height in pixels
 
 ## 🔍 Exploring the Dataset
 
