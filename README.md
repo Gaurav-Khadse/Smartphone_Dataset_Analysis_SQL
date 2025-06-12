@@ -32,33 +32,33 @@ Power BI / Tableau (for visualization)
 
 ## 💾 Data Setup in SQL Workbench
 
-This dataset includes detailed smartphone specifications with the following attributes:
+In this project, I worked with a smartphone specifications dataset using MySQL Workbench. The dataset includes several key attributes that reflect real-world smartphone models and their technical features across various brands available in the Indian market.
 
-brand_name: Brand of the smartphone (e.g., Samsung, Apple, Xiaomi, etc.)
+- brand_name: Brand of the smartphone (e.g., Samsung, Apple, Xiaomi, etc.)
 
-model: Specific model name
+- model: Specific model name
 
-launch_date: Date of market launch
+- launch_date: Date of market launch
 
-processor: Chipset used (e.g., Snapdragon, MediaTek)
+- processor: Chipset used (e.g., Snapdragon, MediaTek)
 
-ram_gb: RAM in GB
+- ram_gb: RAM in GB
 
-internal_storage: Storage capacity
+- internal_storage: Storage capacity
 
-battery_mah: Battery size in mAh
+- battery_mah: Battery size in mAh
 
-primary_camera_mp: Camera specs (e.g., 64MP + 8MP + 2MP)
+- primary_camera_mp: Camera specs (e.g., 64MP + 8MP + 2MP)
 
-os: Operating system (Android/iOS)
+- os: Operating system (Android/iOS)
 
-display_size_inches: Screen size in inches
+- display_size_inches: Screen size in inches
 
-refresh_rate: Screen refresh rate (e.g., 60Hz, 120Hz)
+- refresh_rate: Screen refresh rate (e.g., 60Hz, 120Hz)
 
-price_inr: Price in Indian Rupees
+- price_inr: Price in Indian Rupees
 
-has_5g: Indicates if the phone supports 5G (Yes/No)
+- has_5g: Indicates if the phone supports 5G (Yes/No)
 
 ## 🔍 Exploring the Dataset
 
