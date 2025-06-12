@@ -1,6 +1,16 @@
 # 📱 Smartphone Data Analysis Project
 
+## 📑 Contents
 
+- [**🌐 Introduction**](#-introduction)
+- [**💾 Data Setup in SQL Workbench**](#-data-setup-in-sql-workbench)
+- [**🔍 Exploring the Dataset**](#-exploring-the-dataset)
+- [**🔍 Analytical Insights**](#-analytical-insights)
+- [**⚙️ SQL Techniques**](#️-sql-techniques)
+- [**📂 Data Source**](#-data-source)
+- [**🛠️ Skills Demonstrated**](#️-skills-demonstrated)
+
+  
 In today’s tech-centric world, understanding smartphone trends through data analysis is essential for making informed business and marketing decisions. This project focuses on analyzing a smartphone dataset containing detailed specifications and features across various models and brands.
 
 The primary objective of this project is to explore smartphone data based on brand, specifications (such as processor type, battery capacity, display size), and pricing. The dataset includes essential attributes such as brand name, model, launch date, processor type, RAM, internal storage, battery size, primary camera specifications, operating system, display size, refresh rate, price, and 5G support.
