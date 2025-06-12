@@ -29,6 +29,9 @@ MySQL Workbench
 Power BI / Tableau (for visualization)
 
 📂 Dataset: Smartphone Specifications Dataset
+
+## 💾 Data Setup in SQL Workbench
+
 This dataset includes detailed smartphone specifications with the following attributes:
 
 brand_name: Brand of the smartphone (e.g., Samsung, Apple, Xiaomi, etc.)
@@ -57,7 +60,8 @@ price_inr: Price in Indian Rupees
 
 has_5g: Indicates if the phone supports 5G (Yes/No)
 
-🔍 Exploring the Dataset
+## 🔍 Exploring the Dataset
+
 After importing the dataset into MySQL Workbench, I began with an exploratory analysis to understand its structure and characteristics. The initial steps included:
 
 Reviewing column headers and inspecting data types
