@@ -1,5 +1,6 @@
 # 📱 Smartphone_Data_Analysis_Project.
 
+![93089f446b578c1bef52269e154947c0](https://github.com/user-attachments/assets/799ac5cc-883e-4033-b1d6-7f6c6a29dd71)
 
 
 ## 📑 Contents
